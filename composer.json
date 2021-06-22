@@ -1,0 +1,10 @@
+{
+    "name": "pedro/icatalogo-api",
+    "description": "iCatalogo Api RESET",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/"
+        }
+    }
+}
